@@ -1,0 +1,3332 @@
+{
+    "L1prefiring_jetptvseta_UL2016postVFP": [
+        {
+            "eta_min": -5.0,
+            "eta_max": -4.0,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -5.0,
+            "eta_max": -4.0,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -5.0,
+            "eta_max": -4.0,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -5.0,
+            "eta_max": -4.0,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -5.0,
+            "eta_max": -4.0,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -5.0,
+            "eta_max": -4.0,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -5.0,
+            "eta_max": -4.0,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -5.0,
+            "eta_max": -4.0,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -5.0,
+            "eta_max": -4.0,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -5.0,
+            "eta_max": -4.0,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -5.0,
+            "eta_max": -4.0,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -5.0,
+            "eta_max": -4.0,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -5.0,
+            "eta_max": -4.0,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -4.0,
+            "eta_max": -3.5,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -4.0,
+            "eta_max": -3.5,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -4.0,
+            "eta_max": -3.5,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -4.0,
+            "eta_max": -3.5,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -4.0,
+            "eta_max": -3.5,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -4.0,
+            "eta_max": -3.5,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -4.0,
+            "eta_max": -3.5,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -4.0,
+            "eta_max": -3.5,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -4.0,
+            "eta_max": -3.5,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -4.0,
+            "eta_max": -3.5,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -4.0,
+            "eta_max": -3.5,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -4.0,
+            "eta_max": -3.5,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -4.0,
+            "eta_max": -3.5,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.5,
+            "eta_max": -3.1,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.5,
+            "eta_max": -3.1,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.5,
+            "eta_max": -3.1,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.5,
+            "eta_max": -3.1,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.5,
+            "eta_max": -3.1,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.5,
+            "eta_max": -3.1,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.5,
+            "eta_max": -3.1,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.5,
+            "eta_max": -3.1,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.5,
+            "eta_max": -3.1,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.5,
+            "eta_max": -3.1,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.5,
+            "eta_max": -3.1,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.5,
+            "eta_max": -3.1,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.5,
+            "eta_max": -3.1,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.1,
+            "eta_max": -3.0,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.1,
+            "eta_max": -3.0,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.1,
+            "eta_max": -3.0,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.1,
+            "eta_max": -3.0,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.1,
+            "eta_max": -3.0,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.1,
+            "eta_max": -3.0,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.1,
+            "eta_max": -3.0,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.1,
+            "eta_max": -3.0,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.1,
+            "eta_max": -3.0,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.1,
+            "eta_max": -3.0,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.1,
+            "eta_max": -3.0,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.1,
+            "eta_max": -3.0,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.1,
+            "eta_max": -3.0,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.0,
+            "eta_max": -2.75,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.0,
+            "eta_max": -2.75,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.0,
+            "eta_max": -2.75,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.0,
+            "eta_max": -2.75,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -3.0,
+            "eta_max": -2.75,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.007836990989744663,
+            "error": 0.0012157410784527241
+        },
+        {
+            "eta_min": -3.0,
+            "eta_max": -2.75,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.01127395685762167,
+            "error": 0.0026511987722666252
+        },
+        {
+            "eta_min": -3.0,
+            "eta_max": -2.75,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.011248594149947166,
+            "error": 0.002642890418653947
+        },
+        {
+            "eta_min": -3.0,
+            "eta_max": -2.75,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.013371537439525127,
+            "error": 0.002815812697346281
+        },
+        {
+            "eta_min": -3.0,
+            "eta_max": -2.75,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.02964426949620247,
+            "error": 0.006892301008810441
+        },
+        {
+            "eta_min": -3.0,
+            "eta_max": -2.75,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.10443037748336792,
+            "error": 0.016833508768479912
+        },
+        {
+            "eta_min": -3.0,
+            "eta_max": -2.75,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.3378378450870514,
+            "error": 0.03873478899053074
+        },
+        {
+            "eta_min": -3.0,
+            "eta_max": -2.75,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.4794520437717438,
+            "error": 0.04132624145037615
+        },
+        {
+            "eta_min": -3.0,
+            "eta_max": -2.75,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.5866666436195374,
+            "error": 0.05695970029414591
+        },
+        {
+            "eta_min": -2.75,
+            "eta_max": -2.5,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.75,
+            "eta_max": -2.5,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.75,
+            "eta_max": -2.5,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.75,
+            "eta_max": -2.5,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.75,
+            "eta_max": -2.5,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.009225091896951199,
+            "error": 0.0019700807519491834
+        },
+        {
+            "eta_min": -2.75,
+            "eta_max": -2.5,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.010130246169865131,
+            "error": 0.0027177730796459467
+        },
+        {
+            "eta_min": -2.75,
+            "eta_max": -2.5,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.014360313303768635,
+            "error": 0.0034792743005945897
+        },
+        {
+            "eta_min": -2.75,
+            "eta_max": -2.5,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.01710171066224575,
+            "error": 0.0032803672684785378
+        },
+        {
+            "eta_min": -2.75,
+            "eta_max": -2.5,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.02500000037252903,
+            "error": 0.005533985955782101
+        },
+        {
+            "eta_min": -2.75,
+            "eta_max": -2.5,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.11827956885099411,
+            "error": 0.014697473130193033
+        },
+        {
+            "eta_min": -2.75,
+            "eta_max": -2.5,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.22745098173618317,
+            "error": 0.026044196407509056
+        },
+        {
+            "eta_min": -2.75,
+            "eta_max": -2.5,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.3711340129375458,
+            "error": 0.02824049257695385
+        },
+        {
+            "eta_min": -2.75,
+            "eta_max": -2.5,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.6317567825317383,
+            "error": 0.028112510324839267
+        },
+        {
+            "eta_min": -2.5,
+            "eta_max": -2.25,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.5,
+            "eta_max": -2.25,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.5,
+            "eta_max": -2.25,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.5,
+            "eta_max": -2.25,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.5,
+            "eta_max": -2.25,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0065975496545434,
+            "error": 0.00122608988606593
+        },
+        {
+            "eta_min": -2.5,
+            "eta_max": -2.25,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.012882447801530361,
+            "error": 0.0035486757454287164
+        },
+        {
+            "eta_min": -2.5,
+            "eta_max": -2.25,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.009408602491021156,
+            "error": 0.002428871677923512
+        },
+        {
+            "eta_min": -2.5,
+            "eta_max": -2.25,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.01316872425377369,
+            "error": 0.0025823070359373298
+        },
+        {
+            "eta_min": -2.5,
+            "eta_max": -2.25,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0235294122248888,
+            "error": 0.004875719904275969
+        },
+        {
+            "eta_min": -2.5,
+            "eta_max": -2.25,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.03893805295228958,
+            "error": 0.007617662465670158
+        },
+        {
+            "eta_min": -2.5,
+            "eta_max": -2.25,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.07076922804117203,
+            "error": 0.01374981249483792
+        },
+        {
+            "eta_min": -2.5,
+            "eta_max": -2.25,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.11827956885099411,
+            "error": 0.014697473130193033
+        },
+        {
+            "eta_min": -2.5,
+            "eta_max": -2.25,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.18100890517234802,
+            "error": 0.014668936600776334
+        },
+        {
+            "eta_min": -2.25,
+            "eta_max": -2.0,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.25,
+            "eta_max": -2.0,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.25,
+            "eta_max": -2.0,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.25,
+            "eta_max": -2.0,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.25,
+            "eta_max": -2.0,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.007905138656497002,
+            "error": 0.001691848284705808
+        },
+        {
+            "eta_min": -2.25,
+            "eta_max": -2.0,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.008955223485827446,
+            "error": 0.002424864880988557
+        },
+        {
+            "eta_min": -2.25,
+            "eta_max": -2.0,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.009696969762444496,
+            "error": 0.0023804527803315263
+        },
+        {
+            "eta_min": -2.25,
+            "eta_max": -2.0,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.00725593650713563,
+            "error": 0.0012184940469644207
+        },
+        {
+            "eta_min": -2.25,
+            "eta_max": -2.0,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.00927835050970316,
+            "error": 0.002095662242258548
+        },
+        {
+            "eta_min": -2.25,
+            "eta_max": -2.0,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.007633587811142206,
+            "error": 0.0018280581148381078
+        },
+        {
+            "eta_min": -2.25,
+            "eta_max": -2.0,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.02073732763528824,
+            "error": 0.005974150182356855
+        },
+        {
+            "eta_min": -2.25,
+            "eta_max": -2.0,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.017191976308822632,
+            "error": 0.004153800348937861
+        },
+        {
+            "eta_min": -2.25,
+            "eta_max": -2.0,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.02782324142754078,
+            "error": 0.004272082428991626
+        },
+        {
+            "eta_min": -2.0,
+            "eta_max": -1.75,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.0,
+            "eta_max": -1.75,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.0,
+            "eta_max": -1.75,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.0,
+            "eta_max": -1.75,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.0,
+            "eta_max": -1.75,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.0,
+            "eta_max": -1.75,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.0,
+            "eta_max": -1.75,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.0,
+            "eta_max": -1.75,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.0,
+            "eta_max": -1.75,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.0,
+            "eta_max": -1.75,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.0,
+            "eta_max": -1.75,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.0,
+            "eta_max": -1.75,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -2.0,
+            "eta_max": -1.75,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.75,
+            "eta_max": -1.5,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.75,
+            "eta_max": -1.5,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.75,
+            "eta_max": -1.5,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.75,
+            "eta_max": -1.5,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.75,
+            "eta_max": -1.5,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.75,
+            "eta_max": -1.5,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.75,
+            "eta_max": -1.5,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.75,
+            "eta_max": -1.5,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.75,
+            "eta_max": -1.5,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.75,
+            "eta_max": -1.5,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.75,
+            "eta_max": -1.5,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.75,
+            "eta_max": -1.5,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.75,
+            "eta_max": -1.5,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.5,
+            "eta_max": -1.25,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.5,
+            "eta_max": -1.25,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.5,
+            "eta_max": -1.25,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.5,
+            "eta_max": -1.25,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.5,
+            "eta_max": -1.25,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.5,
+            "eta_max": -1.25,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.5,
+            "eta_max": -1.25,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.5,
+            "eta_max": -1.25,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.5,
+            "eta_max": -1.25,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.5,
+            "eta_max": -1.25,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.5,
+            "eta_max": -1.25,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.5,
+            "eta_max": -1.25,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.5,
+            "eta_max": -1.25,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.25,
+            "eta_max": -1.0,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.25,
+            "eta_max": -1.0,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.25,
+            "eta_max": -1.0,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.25,
+            "eta_max": -1.0,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.25,
+            "eta_max": -1.0,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.25,
+            "eta_max": -1.0,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.25,
+            "eta_max": -1.0,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.25,
+            "eta_max": -1.0,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.25,
+            "eta_max": -1.0,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.25,
+            "eta_max": -1.0,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.25,
+            "eta_max": -1.0,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.25,
+            "eta_max": -1.0,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.25,
+            "eta_max": -1.0,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.0,
+            "eta_max": -0.75,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.0,
+            "eta_max": -0.75,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.0,
+            "eta_max": -0.75,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.0,
+            "eta_max": -0.75,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.0,
+            "eta_max": -0.75,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.0,
+            "eta_max": -0.75,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.0,
+            "eta_max": -0.75,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.0,
+            "eta_max": -0.75,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.0,
+            "eta_max": -0.75,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.0,
+            "eta_max": -0.75,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.0,
+            "eta_max": -0.75,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.0,
+            "eta_max": -0.75,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -1.0,
+            "eta_max": -0.75,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.75,
+            "eta_max": -0.5,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.75,
+            "eta_max": -0.5,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.75,
+            "eta_max": -0.5,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.75,
+            "eta_max": -0.5,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.75,
+            "eta_max": -0.5,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.75,
+            "eta_max": -0.5,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.75,
+            "eta_max": -0.5,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.75,
+            "eta_max": -0.5,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.75,
+            "eta_max": -0.5,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.75,
+            "eta_max": -0.5,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.75,
+            "eta_max": -0.5,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.75,
+            "eta_max": -0.5,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.75,
+            "eta_max": -0.5,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.5,
+            "eta_max": -0.25,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.5,
+            "eta_max": -0.25,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.5,
+            "eta_max": -0.25,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.5,
+            "eta_max": -0.25,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.5,
+            "eta_max": -0.25,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.5,
+            "eta_max": -0.25,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.5,
+            "eta_max": -0.25,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.5,
+            "eta_max": -0.25,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.5,
+            "eta_max": -0.25,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.5,
+            "eta_max": -0.25,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.5,
+            "eta_max": -0.25,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.5,
+            "eta_max": -0.25,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.5,
+            "eta_max": -0.25,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.25,
+            "eta_max": 0.0,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.25,
+            "eta_max": 0.0,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.25,
+            "eta_max": 0.0,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.25,
+            "eta_max": 0.0,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.25,
+            "eta_max": 0.0,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.25,
+            "eta_max": 0.0,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.25,
+            "eta_max": 0.0,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.25,
+            "eta_max": 0.0,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.25,
+            "eta_max": 0.0,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.25,
+            "eta_max": 0.0,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.25,
+            "eta_max": 0.0,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.25,
+            "eta_max": 0.0,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": -0.25,
+            "eta_max": 0.0,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.0,
+            "eta_max": 0.25,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.0,
+            "eta_max": 0.25,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.0,
+            "eta_max": 0.25,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.0,
+            "eta_max": 0.25,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.0,
+            "eta_max": 0.25,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.0,
+            "eta_max": 0.25,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.0,
+            "eta_max": 0.25,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.0,
+            "eta_max": 0.25,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.0,
+            "eta_max": 0.25,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.0,
+            "eta_max": 0.25,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.0,
+            "eta_max": 0.25,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.0,
+            "eta_max": 0.25,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.0,
+            "eta_max": 0.25,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.25,
+            "eta_max": 0.5,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.25,
+            "eta_max": 0.5,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.25,
+            "eta_max": 0.5,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.25,
+            "eta_max": 0.5,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.25,
+            "eta_max": 0.5,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.25,
+            "eta_max": 0.5,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.25,
+            "eta_max": 0.5,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.25,
+            "eta_max": 0.5,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.25,
+            "eta_max": 0.5,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.25,
+            "eta_max": 0.5,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.25,
+            "eta_max": 0.5,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.25,
+            "eta_max": 0.5,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.25,
+            "eta_max": 0.5,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.5,
+            "eta_max": 0.75,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.5,
+            "eta_max": 0.75,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.5,
+            "eta_max": 0.75,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.5,
+            "eta_max": 0.75,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.5,
+            "eta_max": 0.75,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.5,
+            "eta_max": 0.75,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.5,
+            "eta_max": 0.75,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.5,
+            "eta_max": 0.75,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.5,
+            "eta_max": 0.75,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.5,
+            "eta_max": 0.75,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.5,
+            "eta_max": 0.75,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.5,
+            "eta_max": 0.75,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.5,
+            "eta_max": 0.75,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.75,
+            "eta_max": 1.0,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.75,
+            "eta_max": 1.0,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.75,
+            "eta_max": 1.0,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.75,
+            "eta_max": 1.0,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.75,
+            "eta_max": 1.0,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.75,
+            "eta_max": 1.0,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.75,
+            "eta_max": 1.0,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.75,
+            "eta_max": 1.0,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.75,
+            "eta_max": 1.0,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.75,
+            "eta_max": 1.0,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.75,
+            "eta_max": 1.0,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.75,
+            "eta_max": 1.0,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 0.75,
+            "eta_max": 1.0,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.0,
+            "eta_max": 1.25,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.0,
+            "eta_max": 1.25,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.0,
+            "eta_max": 1.25,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.0,
+            "eta_max": 1.25,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.0,
+            "eta_max": 1.25,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.0,
+            "eta_max": 1.25,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.0,
+            "eta_max": 1.25,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.0,
+            "eta_max": 1.25,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.0,
+            "eta_max": 1.25,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.0,
+            "eta_max": 1.25,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.0,
+            "eta_max": 1.25,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.0,
+            "eta_max": 1.25,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.0,
+            "eta_max": 1.25,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.25,
+            "eta_max": 1.5,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.25,
+            "eta_max": 1.5,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.25,
+            "eta_max": 1.5,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.25,
+            "eta_max": 1.5,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.25,
+            "eta_max": 1.5,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.25,
+            "eta_max": 1.5,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.25,
+            "eta_max": 1.5,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.25,
+            "eta_max": 1.5,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.25,
+            "eta_max": 1.5,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.25,
+            "eta_max": 1.5,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.25,
+            "eta_max": 1.5,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.25,
+            "eta_max": 1.5,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.25,
+            "eta_max": 1.5,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.5,
+            "eta_max": 1.75,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.5,
+            "eta_max": 1.75,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.5,
+            "eta_max": 1.75,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.5,
+            "eta_max": 1.75,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.5,
+            "eta_max": 1.75,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.5,
+            "eta_max": 1.75,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.5,
+            "eta_max": 1.75,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.5,
+            "eta_max": 1.75,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.5,
+            "eta_max": 1.75,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.5,
+            "eta_max": 1.75,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.5,
+            "eta_max": 1.75,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.5,
+            "eta_max": 1.75,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.5,
+            "eta_max": 1.75,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.75,
+            "eta_max": 2.0,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.75,
+            "eta_max": 2.0,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.75,
+            "eta_max": 2.0,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.75,
+            "eta_max": 2.0,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.75,
+            "eta_max": 2.0,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.75,
+            "eta_max": 2.0,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.75,
+            "eta_max": 2.0,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.75,
+            "eta_max": 2.0,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.75,
+            "eta_max": 2.0,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.75,
+            "eta_max": 2.0,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.75,
+            "eta_max": 2.0,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.75,
+            "eta_max": 2.0,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 1.75,
+            "eta_max": 2.0,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 2.0,
+            "eta_max": 2.25,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 2.0,
+            "eta_max": 2.25,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 2.0,
+            "eta_max": 2.25,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 2.0,
+            "eta_max": 2.25,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 2.0,
+            "eta_max": 2.25,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.008832188323140144,
+            "error": 0.0019355419209535426
+        },
+        {
+            "eta_min": 2.0,
+            "eta_max": 2.25,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.008534850552678108,
+            "error": 0.0022384063194588622
+        },
+        {
+            "eta_min": 2.0,
+            "eta_max": 2.25,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.01359003409743309,
+            "error": 0.003105587229552595
+        },
+        {
+            "eta_min": 2.0,
+            "eta_max": 2.25,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.00955631397664547,
+            "error": 0.0017595287104783894
+        },
+        {
+            "eta_min": 2.0,
+            "eta_max": 2.25,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.021030494943261147,
+            "error": 0.004072621285841826
+        },
+        {
+            "eta_min": 2.0,
+            "eta_max": 2.25,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.01977401040494442,
+            "error": 0.004534198211392654
+        },
+        {
+            "eta_min": 2.0,
+            "eta_max": 2.25,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.030634572729468346,
+            "error": 0.00739291774914443
+        },
+        {
+            "eta_min": 2.0,
+            "eta_max": 2.25,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.05596465244889259,
+            "error": 0.008439968786774759
+        },
+        {
+            "eta_min": 2.0,
+            "eta_max": 2.25,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0758213996887207,
+            "error": 0.007445716444636261
+        },
+        {
+            "eta_min": 2.25,
+            "eta_max": 2.5,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 2.25,
+            "eta_max": 2.5,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 2.25,
+            "eta_max": 2.5,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 2.25,
+            "eta_max": 2.5,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 2.25,
+            "eta_max": 2.5,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.016585364937782288,
+            "error": 0.0033424314586314938
+        },
+        {
+            "eta_min": 2.25,
+            "eta_max": 2.5,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.01860465109348297,
+            "error": 0.004561307537634351
+        },
+        {
+            "eta_min": 2.25,
+            "eta_max": 2.5,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.011597937904298306,
+            "error": 0.0029062688021139556
+        },
+        {
+            "eta_min": 2.25,
+            "eta_max": 2.5,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.024247491732239723,
+            "error": 0.003972841097144221
+        },
+        {
+            "eta_min": 2.25,
+            "eta_max": 2.5,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0377604179084301,
+            "error": 0.006423343346619527
+        },
+        {
+            "eta_min": 2.25,
+            "eta_max": 2.5,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.08664260059595108,
+            "error": 0.01163347329982907
+        },
+        {
+            "eta_min": 2.25,
+            "eta_max": 2.5,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.17765043675899506,
+            "error": 0.020230920719042457
+        },
+        {
+            "eta_min": 2.25,
+            "eta_max": 2.5,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.23459716141223907,
+            "error": 0.02047321130748547
+        },
+        {
+            "eta_min": 2.25,
+            "eta_max": 2.5,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.3452012240886688,
+            "error": 0.018640494519727747
+        },
+        {
+            "eta_min": 2.5,
+            "eta_max": 2.75,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 2.5,
+            "eta_max": 2.75,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 2.5,
+            "eta_max": 2.75,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 2.5,
+            "eta_max": 2.75,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 2.5,
+            "eta_max": 2.75,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.009838998317718506,
+            "error": 0.002075408103282246
+        },
+        {
+            "eta_min": 2.5,
+            "eta_max": 2.75,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.010043041780591011,
+            "error": 0.002683070231708193
+        },
+        {
+            "eta_min": 2.5,
+            "eta_max": 2.75,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.015523932874202728,
+            "error": 0.0036703031361639683
+        },
+        {
+            "eta_min": 2.5,
+            "eta_max": 2.75,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.019498607143759727,
+            "error": 0.003642368745555364
+        },
+        {
+            "eta_min": 2.5,
+            "eta_max": 2.75,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.03162650763988495,
+            "error": 0.006247594323859723
+        },
+        {
+            "eta_min": 2.5,
+            "eta_max": 2.75,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.07710280269384384,
+            "error": 0.012502708915586611
+        },
+        {
+            "eta_min": 2.5,
+            "eta_max": 2.75,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.2730923593044281,
+            "error": 0.02807182742051115
+        },
+        {
+            "eta_min": 2.5,
+            "eta_max": 2.75,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.38795986771583557,
+            "error": 0.028112388361378228
+        },
+        {
+            "eta_min": 2.5,
+            "eta_max": 2.75,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.5749129056930542,
+            "error": 0.02922412406281605
+        },
+        {
+            "eta_min": 2.75,
+            "eta_max": 3.0,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 2.75,
+            "eta_max": 3.0,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 2.75,
+            "eta_max": 3.0,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 2.75,
+            "eta_max": 3.0,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 2.75,
+            "eta_max": 3.0,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.010925819166004658,
+            "error": 0.0018404914451733948
+        },
+        {
+            "eta_min": 2.75,
+            "eta_max": 3.0,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.010135134682059288,
+            "error": 0.0023985649505298703
+        },
+        {
+            "eta_min": 2.75,
+            "eta_max": 3.0,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.015258216299116611,
+            "error": 0.0034520500300813206
+        },
+        {
+            "eta_min": 2.75,
+            "eta_max": 3.0,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.012081784196197987,
+            "error": 0.002556359612640932
+        },
+        {
+            "eta_min": 2.75,
+            "eta_max": 3.0,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.03531598672270775,
+            "error": 0.007391963846053949
+        },
+        {
+            "eta_min": 2.75,
+            "eta_max": 3.0,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.13924050331115723,
+            "error": 0.019177715722226815
+        },
+        {
+            "eta_min": 2.75,
+            "eta_max": 3.0,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.22807016968727112,
+            "error": 0.03183564050452131
+        },
+        {
+            "eta_min": 2.75,
+            "eta_max": 3.0,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.4885496199131012,
+            "error": 0.04366155268846852
+        },
+        {
+            "eta_min": 2.75,
+            "eta_max": 3.0,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.5961538553237915,
+            "error": 0.06817553343273992
+        },
+        {
+            "eta_min": 3.0,
+            "eta_max": 3.1,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.0,
+            "eta_max": 3.1,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.0,
+            "eta_max": 3.1,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.0,
+            "eta_max": 3.1,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.0,
+            "eta_max": 3.1,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.0,
+            "eta_max": 3.1,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.0,
+            "eta_max": 3.1,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.0,
+            "eta_max": 3.1,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.0,
+            "eta_max": 3.1,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.0,
+            "eta_max": 3.1,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.0,
+            "eta_max": 3.1,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.0,
+            "eta_max": 3.1,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.0,
+            "eta_max": 3.1,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.1,
+            "eta_max": 3.5,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.1,
+            "eta_max": 3.5,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.1,
+            "eta_max": 3.5,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.1,
+            "eta_max": 3.5,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.1,
+            "eta_max": 3.5,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.1,
+            "eta_max": 3.5,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.1,
+            "eta_max": 3.5,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.1,
+            "eta_max": 3.5,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.1,
+            "eta_max": 3.5,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.1,
+            "eta_max": 3.5,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.1,
+            "eta_max": 3.5,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.1,
+            "eta_max": 3.5,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.1,
+            "eta_max": 3.5,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.5,
+            "eta_max": 4.0,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.5,
+            "eta_max": 4.0,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.5,
+            "eta_max": 4.0,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.5,
+            "eta_max": 4.0,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.5,
+            "eta_max": 4.0,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.5,
+            "eta_max": 4.0,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.5,
+            "eta_max": 4.0,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.5,
+            "eta_max": 4.0,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.5,
+            "eta_max": 4.0,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.5,
+            "eta_max": 4.0,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.5,
+            "eta_max": 4.0,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.5,
+            "eta_max": 4.0,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 3.5,
+            "eta_max": 4.0,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 4.0,
+            "eta_max": 5.0,
+            "pt_min": 10.0,
+            "pt_max": 15.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 4.0,
+            "eta_max": 5.0,
+            "pt_min": 15.0,
+            "pt_max": 20.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 4.0,
+            "eta_max": 5.0,
+            "pt_min": 20.0,
+            "pt_max": 25.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 4.0,
+            "eta_max": 5.0,
+            "pt_min": 25.0,
+            "pt_max": 30.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 4.0,
+            "eta_max": 5.0,
+            "pt_min": 30.0,
+            "pt_max": 35.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 4.0,
+            "eta_max": 5.0,
+            "pt_min": 35.0,
+            "pt_max": 40.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 4.0,
+            "eta_max": 5.0,
+            "pt_min": 40.0,
+            "pt_max": 50.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 4.0,
+            "eta_max": 5.0,
+            "pt_min": 50.0,
+            "pt_max": 70.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 4.0,
+            "eta_max": 5.0,
+            "pt_min": 70.0,
+            "pt_max": 100.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 4.0,
+            "eta_max": 5.0,
+            "pt_min": 100.0,
+            "pt_max": 150.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 4.0,
+            "eta_max": 5.0,
+            "pt_min": 150.0,
+            "pt_max": 200.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 4.0,
+            "eta_max": 5.0,
+            "pt_min": 200.0,
+            "pt_max": 300.0,
+            "valor": 0.0,
+            "error": 0.0
+        },
+        {
+            "eta_min": 4.0,
+            "eta_max": 5.0,
+            "pt_min": 300.0,
+            "pt_max": 500.0,
+            "valor": 0.0,
+            "error": 0.0
+        }
+    ]
+}
